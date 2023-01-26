@@ -1,0 +1,17 @@
+{
+  "name": "com.gameworkstore.ironsourcesdk",
+  "version": "7.2.7",
+  "displayName": "IronSource SDK",
+  "description": "IronSource SDK as Unity Package Manager.",
+  "unity": "2021.3",
+  "icon": ".icon.png",
+  "keywords": [ "iron source", "sdk" ],
+  "author": {
+    "name": "Game Workstore",
+    "email": "contact@gameworkstore.com",
+    "url": "https://gameworkstore.com"
+  },
+  "dependencies": {
+    "com.google.external-dependency-manager": "1.2.175"
+  }
+}

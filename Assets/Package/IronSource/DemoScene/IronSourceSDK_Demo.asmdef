@@ -1,0 +1,16 @@
+{
+    "name": "IronSourceSDK_Demo",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d246d34e4be43f84cb213ea527440986"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
