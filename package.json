@@ -1,0 +1,17 @@
+{
+  "name": "com.gameworkstore.ulevelplay",
+  "version": "7.2.7",
+  "displayName": "ULevelPlay SDK",
+  "description": "Unity Level Play SDK (unnofficial mirror) as UPM.",
+  "unity": "2021.3",
+  "icon": ".icon.png",
+  "keywords": [ "iron source", "sdk" ],
+  "author": {
+    "name": "Game Workstore",
+    "email": "contact@gameworkstore.com",
+    "url": "https://gameworkstore.com"
+  },
+  "dependencies": {
+    "com.google.external-dependency-manager": "1.2.175"
+  }
+}

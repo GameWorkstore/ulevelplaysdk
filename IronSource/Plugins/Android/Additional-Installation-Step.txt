@@ -1,0 +1,7 @@
+Copy \IronSource\Plugins\Android\ and all it's contents to your assets folder to:
+
+Assets\IronSource\Plugins\Android\
+
+remove "-copyandremove" from IronSource.plugin and make sure it's listed to any platform
+(it only applies for android anyway). Original IronSourceSDK looks into this path to find
+the android manifest at this project library).
