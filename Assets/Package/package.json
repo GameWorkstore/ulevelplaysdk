@@ -1,8 +1,8 @@
 {
-  "name": "com.gameworkstore.ironsourcesdk",
+  "name": "com.gameworkstore.ulevelplay",
   "version": "7.2.7",
-  "displayName": "IronSource SDK",
-  "description": "IronSource SDK as Unity Package Manager.",
+  "displayName": "ULevelPlay SDK",
+  "description": "Unity Level Play SDK (unnofficial mirror) as UPM.",
   "unity": "2021.3",
   "icon": ".icon.png",
   "keywords": [ "iron source", "sdk" ],
