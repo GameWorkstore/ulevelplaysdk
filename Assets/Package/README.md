@@ -18,10 +18,15 @@ you can upgrade your version by including the release version at end of the link
 "com.gameworkstore.ulevelplay": "https://github.com/GameWorkstore/ulevelplaysdk.git#7.2.7"
 ```
 
-Copy \IronSource\Plugins\Android\ and all it's contents to your assets folder (Path Included).
-Include IronSource.plugin (on this repo, it's set excluded to not conflict with your copy).
-otherwise you are not gonna be able to compile for android;
-(original IronSourceSDK looks into this path to find the android manifest at this project library).
+# Additional Installation Step
+
+Copy \IronSource\Plugins\Android\ and all it's contents to your assets folder to:
+
+Assets\IronSource\Plugins\Android\
+
+remove "-copyandremove" from IronSource.plugin and make sure it's listed to any platform
+(it only applies for android anyway). Original IronSourceSDK looks into this path to find
+the android manifest at this project library).
 
 # Contributions
 
