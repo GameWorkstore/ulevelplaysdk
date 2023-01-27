@@ -7,14 +7,15 @@ Original Source Location: https://developers.is.com/download-ironsource-sdk/.
 
 At package.json, add these lines of code:
 ```json
-"com.gameworkstore.ulevelplay": "https://github.com/GameWorkstore/ulevelplaysdk#7.2.7"
+"com.gameworkstore.ulevelplay": "https://github.com/GameWorkstore/ulevelplaysdk.git#7.2.7"
+"com.google.external-dependency-manager":"https://github.com/GameWorkstore/com.google.external-dependency-manager.git#1.2.175",
 ```
 
 And wait for unity to download and compile the package.
 
 you can upgrade your version by including the release version at end of the link:
 ```json
-"com.gameworkstore.ulevelplay": "https://github.com/GameWorkstore/ulevelplaysdk#7.2.7"
+"com.gameworkstore.ulevelplay": "https://github.com/GameWorkstore/ulevelplaysdk.git#7.2.7"
 ```
 
 # Contributions
