@@ -1,21 +1,20 @@
-# Game Workstore Protocol UI
+# Unity LevelPlay SDK (unnofficial mirror)
 
-Protocol UI is a small framework to work with multiple screens on a easy and organized way and manage layered panels on Unity.
-Use it your own risk!
+Unity NPM version of Unity Levelplay SDK! This repository applies the same license terms of the original version.
+Original Source Location: https://developers.is.com/download-ironsource-sdk/.
 
 # How to install
 
 At package.json, add these lines of code:
 ```json
-"com.gameworkstore.protocolui": "https://github.com/GameWorkstore/protocolui.git#1.2.4"
-"com.gameworkstore.patterns": "https://github.com/GameWorkstore/patterns.git#1.3.2"
+"com.gameworkstore.ulevelplay": "https://github.com/GameWorkstore/ulevelplaysdk#7.2.7"
 ```
 
 And wait for unity to download and compile the package.
 
 you can upgrade your version by including the release version at end of the link:
 ```json
-"com.gameworkstore.protocolui": "https://github.com/GameWorkstore/protocolui.git#1.2.4"
+"com.gameworkstore.ulevelplay": "https://github.com/GameWorkstore/ulevelplaysdk#7.2.7"
 ```
 
 # Contributions
